@@ -15,7 +15,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "AI Chat",
-  description: "A minimal Next.js chat interface powered by Google Gemini",
+  description: "A minimal Next.js chat interface powered by Mistral via Hugging Face",
 };
 
 export default function RootLayout({

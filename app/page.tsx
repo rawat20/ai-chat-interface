@@ -409,7 +409,7 @@ export default function Home() {
                 How can I help you today?
               </h2>
               <p className="mt-1 max-w-xs text-sm" style={{ color: "var(--text-placeholder)" }}>
-                Ask me anything. Powered by Google Gemini.
+                Ask me anything. Powered by Qwen 2.5 via Hugging Face.
               </p>
             </div>
           )}
